@@ -155,6 +155,7 @@
     ]
   },
   "devDependencies": {
+    "@babel/preset-env": "^7.27.2",
     "tailwindcss": "^4.0.14"
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
